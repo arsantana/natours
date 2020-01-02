@@ -1,7 +1,7 @@
 # Natours
 [Sample Website](https://www.example.com)
 
-![Natours Screen Capture](https://drive.google.com/file/d/1afUv32HhSJmE0-F19mjSdW3QiDcNzRJY/view?usp=sharing)
+![Natours Screen Capture](natours-sc.png)
 
 Natours is a fictional company that offers Nature Tours. It currently does not have any functionality (such as links, pages, etc), but showcases advanced CSS skills.
 

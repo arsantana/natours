@@ -1,5 +1,5 @@
 # Natours
-[Sample Website](https://www.example.com)
+[Sample Website](https://arsantana.github.io/natours/)
 
 ![Natours Screen Capture](natours-sc.png)
 
